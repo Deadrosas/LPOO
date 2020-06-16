@@ -1,7 +1,7 @@
 public class Ticket {
 
-    private int  ticketNumber;
-    private Concert concert;
+    private final int  ticketNumber;
+    private final Concert concert;
 
     public Ticket(int ticketNumber, Concert concert) throws InvalidTicket {
         if(ticketNumber<1){

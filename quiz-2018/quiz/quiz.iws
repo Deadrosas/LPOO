@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b435420-c662-432d-9308-eb90bd7ac2cd" name="Default Changelist" comment="" />
+    <list default="true" id="9b435420-c662-432d-9308-eb90bd7ac2cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/quiz/TestCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/quiz/TestCases.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/quiz.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz.iws" beforeDir="false" afterPath="$PROJECT_DIR$/quiz.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +29,11 @@
       <replace>UK</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1d03OFWNWPxpV5Zo5wn5s6U0RaX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553520726322" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../quiz-2019/quiz" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -158,6 +166,8 @@
       <workItem from="1591548151338" duration="521000" />
       <workItem from="1591548683169" duration="4649000" />
       <workItem from="1591714054533" duration="7000" />
+      <workItem from="1592227255591" duration="106000" />
+      <workItem from="1592227892645" duration="622000" />
     </task>
     <servers />
   </component>
@@ -169,22 +179,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="727" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591552568854" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1591555073405">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592231714703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591555073405" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1591555073405">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592231714703" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1592227361133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591555073405" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1591555073405">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592227361133" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1592227361133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591555073405" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1591555073405">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592227361133" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1592227361133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591555073405" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592227361133" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1592227361133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592227361133" />
     <state x="792" y="235" key="SettingsEditor" timestamp="1591549277172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
